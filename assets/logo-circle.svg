@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080"
+   height="1080"
+   viewBox="0 0 1080 1080"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="endless-access-logo-cicle.svg"
+   inkscape:export-filename="endless-access-logo-circle.png"
+   inkscape:export-xdpi="22.755556"
+   inkscape:export-ydpi="22.755556"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="0.39631343"
+     inkscape:cx="454.18597"
+     inkscape:cy="575.30223"
+     inkscape:window-width="1728"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#5837ed;fill-opacity:1;stroke-width:73.5322;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:0;paint-order:stroke fill markers"
+       id="path2"
+       cx="540"
+       cy="540"
+       r="540"
+       inkscape:label="Circle" />
+    <path
+       d="m 695.5634,471.50975 c 78.4924,0 121.4338,31.79002 121.4338,79.26287 0,47.47361 -33.5865,78.06575 -115.4665,78.06575 -46.8659,0 -103.1422,-27.80924 -159.7274,-59.38175 l -27.3232,22.77887 -0.5165,0.43276 c 63.9185,36.04462 132.9891,71.1644 196.2885,71.1644 67.0893,0 151.3293,-32.43955 151.3293,-115.31814 0,-82.87859 -88.7882,-135.66778 -161.0721,-135.66778 -170.2848,0 -285.5223,202.338 -375.697,202.338 -18.9799,0 -54.956,-6.7751 -54.956,-44.82684 0,-38.05175 29.182,-54.68223 72.0086,-54.68223 21.9643,0 48.7597,10.13983 78.6536,25.10544 l 27.966,-23.47479 c -40.853,-21.37487 -78.9633,-37.25316 -110.4179,-37.25316 -90.5876,0 -107.7551,62.05057 -107.7551,95.57392 0,33.52335 21.3445,87.68155 95.2469,87.68155 145.5437,0 233.6991,-191.81028 370.005,-191.81028 z"
+       fill="#ffffff"
+       id="path1"
+       style="stroke-width:7.60563"
+       inkscape:label="Logo" />
+  </g>
+</svg>
