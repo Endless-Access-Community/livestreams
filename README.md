@@ -2,6 +2,19 @@
 
 Planning and resources for community livestreams
 
+## Suggest a topic
+
+If there's a specific topic you think would be interesting to the Endless Access community, players, educators, or learners:
+
+1. Review the [existing ideas and planned streams](https://github.com/Endless-Access-Community/livestreams/issues?q=is%3Aissue%20state%3Aopen%20label%3AIdea%20OR%20label%3AStream)
+
+    - If your idea already exists, add a :+1: reaction
+    - Comment if there is additional helpful context/information you can provide
+
+1. If your idea doesn't exist, select **New issue** then detail your suggestion
+    
+    - A member of the team will review it and may follow-up for additional information.
+
 ## Run a stream
 
 If you're streaming to the official Endless Access channel, here are some tips for consistency/a smooth experience:
