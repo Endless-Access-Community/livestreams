@@ -1,0 +1,12 @@
+contact_links:
+  - name: Chat with the community
+    about: Join us on Discord
+    url: https://discord.gg/joinendless
+ 
+  - name: View the schedule
+    about: Check out the GitHub Project for scheduled streams
+    url: https://github.com/orgs/Endless-Access-Community/projects/2
+
+  - name: Watch live streams
+    about: Catch previous and upcoming streams on YouTube
+    url: https://www.youtube.com/@EndlessAccess/streams
